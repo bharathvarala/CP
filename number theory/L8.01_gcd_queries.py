@@ -34,3 +34,5 @@ for i in q:
         print(pg[l-2])
     else:
         print(gcd(sg[r],pg[l-2]))
+
+# similar question Strong Elements Codechef.
