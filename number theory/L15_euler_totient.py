@@ -12,7 +12,7 @@ def prime(n):
     return True
 
 
-n=8
+n=12
 ans = n
 if prime(n):
     print(n-1)
