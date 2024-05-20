@@ -1,3 +1,5 @@
+# should complete this after completing all concepts
+# https://codeforces.com/gym/348180
 from math import sqrt
 
 n=123
